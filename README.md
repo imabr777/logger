@@ -21,11 +21,11 @@ Ends timer on this run and writes an ending line in the input file
 ### write_error(file_path, error_msg)
 
 Writes an exception message to the input file  
-*file_path: A file path to which the exception will be written*
+*file_path: A file path to which the exception will be written*  
 *error_msg: The error message to be written*
 
 ### write_log(file_path, log_msg)
 
 Writes a log message to the input file  
-*file_path: A file path to which the log message will be written*
+*file_path: A file path to which the log message will be written*  
 *log_msg: The log message to be written*
