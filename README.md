@@ -6,6 +6,8 @@ A little module for Python that helps me write messages to a log file. Especiall
 
 Abraham Im (github/imabr777)
 
+## Documentation
+
 ### start_run(file_path)
 
 Starts timer on this run and writes a starting line in the input file
